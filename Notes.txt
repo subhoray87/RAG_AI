@@ -1,0 +1,14 @@
+## Create Environment
+conda create -p pyvenv python==3.11 -y
+
+## activate Environment
+conda activate pyvenv/
+conda activate C:\Users\SubhodeepRay\Downloads\GenAI\LangChain\venv
+
+
+## install requirements
+pip install -r requirements.txt
+
+## Run Python file
+python dataIngestion_1.py
+python DocumentLoader.py

@@ -1,0 +1,13 @@
+ipykernel
+python-dotenv
+langchain
+langchain_community
+langchain_core
+langchain_huggingface
+langchain_groq
+langchain-text-splitters
+pypdf
+bs4
+pymongo
+certifi
+sentence_transformers
